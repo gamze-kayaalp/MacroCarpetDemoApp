@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hyare\\OneDrive\\Masa\u00FCst\u00FC\\hal\u0131DemoApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE7E7231-CD14-43F4-9A8D-7ADD302504DC}|hal\u0131DemoApp\\hal\u0131DemoApp.csproj|c:\\users\\hyare\\onedrive\\masa\u00FCst\u00FC\\hal\u0131demoapp\\hal\u0131demoapp\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE7E7231-CD14-43F4-9A8D-7ADD302504DC}|hal\u0131DemoApp\\hal\u0131DemoApp.csproj|solutionrelative:hal\u0131demoapp\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE7E7231-CD14-43F4-9A8D-7ADD302504DC}|hal\u0131DemoApp\\hal\u0131DemoApp.csproj|C:\\Users\\hyare\\OneDrive\\Masa\u00FCst\u00FC\\hal\u0131DemoApp\\hal\u0131demoapp\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE7E7231-CD14-43F4-9A8D-7ADD302504DC}|hal\u0131DemoApp\\hal\u0131DemoApp.csproj|solutionrelative:hal\u0131demoapp\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE7E7231-CD14-43F4-9A8D-7ADD302504DC}|hal\u0131DemoApp\\hal\u0131DemoApp.csproj|C:\\Users\\hyare\\OneDrive\\Masa\u00FCst\u00FC\\hal\u0131DemoApp\\hal\u0131demoapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE7E7231-CD14-43F4-9A8D-7ADD302504DC}|hal\u0131DemoApp\\hal\u0131DemoApp.csproj|solutionrelative:hal\u0131demoapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE7E7231-CD14-43F4-9A8D-7ADD302504DC}|hal\u0131DemoApp\\hal\u0131DemoApp.csproj|C:\\Users\\hyare\\OneDrive\\Masa\u00FCst\u00FC\\hal\u0131DemoApp\\hal\u0131demoapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CE7E7231-CD14-43F4-9A8D-7ADD302504DC}|hal\u0131DemoApp\\hal\u0131DemoApp.csproj|solutionrelative:hal\u0131demoapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE7E7231-CD14-43F4-9A8D-7ADD302504DC}|hal\u0131DemoApp\\hal\u0131DemoApp.csproj|C:\\Users\\hyare\\OneDrive\\Masa\u00FCst\u00FC\\hal\u0131DemoApp\\hal\u0131demoapp\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CE7E7231-CD14-43F4-9A8D-7ADD302504DC}|hal\u0131DemoApp\\hal\u0131DemoApp.csproj|solutionrelative:hal\u0131demoapp\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE7E7231-CD14-43F4-9A8D-7ADD302504DC}|hal\u0131DemoApp\\hal\u0131DemoApp.csproj|C:\\Users\\hyare\\OneDrive\\Masa\u00FCst\u00FC\\hal\u0131DemoApp\\hal\u0131demoapp\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CE7E7231-CD14-43F4-9A8D-7ADD302504DC}|hal\u0131DemoApp\\hal\u0131DemoApp.csproj|solutionrelative:hal\u0131demoapp\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\hyare\\OneDrive\\Masa\u00FCst\u00FC\\hal\u0131DemoApp\\hal\u0131DemoApp\\Form3.cs",
+              "RelativeDocumentMoniker": "hal\u0131DemoApp\\Form3.cs",
+              "ToolTip": "C:\\Users\\hyare\\OneDrive\\Masa\u00FCst\u00FC\\hal\u0131DemoApp\\hal\u0131DemoApp\\Form3.cs",
+              "RelativeToolTip": "hal\u0131DemoApp\\Form3.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAjwCIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T13:45:20.502Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form3.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\hyare\\OneDrive\\Masa\u00FCst\u00FC\\hal\u0131DemoApp\\hal\u0131DemoApp\\Form3.cs",
+              "RelativeDocumentMoniker": "hal\u0131DemoApp\\Form3.cs",
+              "ToolTip": "C:\\Users\\kayaa\\source\\repos\\hal\u0131DemoApp\\hal\u0131DemoApp\\Form3.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\..\\kayaa\\source\\repos\\hal\u0131DemoApp\\hal\u0131DemoApp\\Form3.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T13:36:30.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\hyare\\OneDrive\\Masa\u00FCst\u00FC\\hal\u0131DemoApp\\hal\u0131DemoApp\\Form2.cs",
+              "RelativeDocumentMoniker": "hal\u0131DemoApp\\Form2.cs",
+              "ToolTip": "C:\\Users\\hyare\\OneDrive\\Masa\u00FCst\u00FC\\hal\u0131DemoApp\\hal\u0131DemoApp\\Form2.cs",
+              "RelativeToolTip": "hal\u0131DemoApp\\Form2.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T12:10:06.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form2.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\hyare\\OneDrive\\Masa\u00FCst\u00FC\\hal\u0131DemoApp\\hal\u0131DemoApp\\Form2.cs",
+              "RelativeDocumentMoniker": "hal\u0131DemoApp\\Form2.cs",
+              "ToolTip": "C:\\Users\\kayaa\\source\\repos\\hal\u0131DemoApp\\hal\u0131DemoApp\\Form2.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\..\\kayaa\\source\\repos\\hal\u0131DemoApp\\hal\u0131DemoApp\\Form2.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T11:54:57.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\hyare\\OneDrive\\Masa\u00FCst\u00FC\\hal\u0131DemoApp\\hal\u0131DemoApp\\Form1.cs",
+              "RelativeDocumentMoniker": "hal\u0131DemoApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\hyare\\OneDrive\\Masa\u00FCst\u00FC\\hal\u0131DemoApp\\hal\u0131DemoApp\\Form1.cs",
+              "RelativeToolTip": "hal\u0131DemoApp\\Form1.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T11:36:26.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\hyare\\OneDrive\\Masa\u00FCst\u00FC\\hal\u0131DemoApp\\hal\u0131DemoApp\\Form1.cs",
+              "RelativeDocumentMoniker": "hal\u0131DemoApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\kayaa\\source\\repos\\hal\u0131DemoApp\\hal\u0131DemoApp\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\..\\kayaa\\source\\repos\\hal\u0131DemoApp\\hal\u0131DemoApp\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T11:35:48.033Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
